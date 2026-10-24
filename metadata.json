@@ -1,0 +1,6 @@
+{
+  "name": "Iqtisodiy Xavfsizlik - Interaktiv Ta'lim Portali",
+  "description": "Oliy ta'lim muassasalari uchun Iqtisodiy xavfsizlik fanidan interaktiv platforma: simulyatorlar, kiber-moliyaviy tekshiruv, ma'ruzalar, testlar va keyslar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
